@@ -41,7 +41,7 @@ Store the final results in the curated folder in S3.<br>
 
 # Data Protection:
 
-Use AWS Key Management Service (KMS) to create a symmetric key named "Project2-contracts-dataset2-ankit" for encryption and decryption.<br>
+Use AWS Key Management Service (KMS) to create a symmetric key named "hr-remoteworkprocedure-dataset2-ankit" for encryption and decryption.<br>
 Configure default encryption for the S3 bucket to ensure data protection.<br>
 
 # Data Governance:
