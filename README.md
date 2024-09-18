@@ -46,27 +46,27 @@ Configure default encryption for the S3 bucket to ensure data protection.<br>
 
 # Data Governance:
 
-Establish data pipelines using AWS Glue.<br>
-Implement detection mechanisms to identify suspicious data using Canadian examples.<br>
-Filter data based on specific conditions and eliminate unnecessary columns for a clean dataset.<br>
+Utilise AWS Glue to create data pipelines for the ETL named "HR-Rwp-QRPR-Ankit".<br>
+Use Canadian examples to implement detection techniques for identifying questionable data.<br>
+Employ data filtering techniques to apply specified criteria and remove superfluous columns to achieve a pristine dataset.<br>
 
 <img src="https://ankitcan890.github.io/remote-work-procedure/Gov.png">
 
 # Data Monitoring:
 
-Set up Amazon CloudWatch dashboards (e.g., "project2-contracts-dashboard-ankit") for monitoring costs and data usage.<br>
+Set up Amazon CloudWatch dashboards (e.g., "hr-remoteworkprocedure-dashboard-ankit") for monitoring costs and data usage.<br>
 Implement alarms using CloudWatch to notify when thresholds are exceeded.<br>
 Use CloudTrail to record user activities and modifications within the system.<br>
 
 # Data Analysis: 
 
-Create databases and tables (e.g., "project2_awarded_table05_ankit") for storing and querying contract data.<br>
+Create databases and tables (e.g., "hr_remote_work_procedure_table5_ankit") for storing and querying contract data.<br>
 Perform SQL queries to retrieve and analyze the data for insights.<br>
 
 # Data Visualization:
 
-Visualize bid types and counts using graphs.<br>
-Publish results on web servers for remote access and sharing.<br>
+Graphically represent the remote work score of each professor by their respective professor ID.<br>
+Upload findings to web servers for remote retrieval and dissemination.<br>
 
 # Data Publishing: 
 
@@ -92,7 +92,7 @@ Published data accessible on web servers.<br>
 
  # Result:
 
-<img src="https://ankitcan890.github.io/Portfolio-Awarded-Projects/result.png">
+<img src="https://ankitcan890.github.io/remote-work-procedure/screenshot_WS.png">
 
 **Timeline:**
 
