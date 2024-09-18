@@ -91,7 +91,7 @@ CloudWatch dashboard and alarms for monitoring.<br>
 Visual representations of the analysis results.<br>
 Published data accessible on web servers.<br>
 
- # Result:
+ # Result:#
 
 <img src="https://ankitcan890.github.io/remote-work-procedure/screenshot_WS.png">
 
