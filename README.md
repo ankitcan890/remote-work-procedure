@@ -50,7 +50,7 @@ Establish data pipelines using AWS Glue.<br>
 Implement detection mechanisms to identify suspicious data using Canadian examples.<br>
 Filter data based on specific conditions and eliminate unnecessary columns for a clean dataset.<br>
 
-<img src="https://ankitcan890.github.io/Portfolio-Awarded-Projects/governance.png">
+<img src="https://ankitcan890.github.io/remote-work-procedure/Gov.png">
 
 # Data Monitoring:
 
