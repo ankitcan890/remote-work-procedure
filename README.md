@@ -37,7 +37,7 @@ Use union operations to combine data from different tables.<br>
 Perform aggregation to calculate values for the specified bid types.<br>
 Store the final results in the curated folder in S3.<br>
 
-<img src="https://ankitcan890.github.io/Portfolio-Awarded-Projects/ETL_UCW.png">
+<img src="https://ankitcan890.github.io/remote-work-procedure/ETL_UCW.png">
 
 # Data Protection:
 
